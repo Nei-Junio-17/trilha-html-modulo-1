@@ -1,16 +1,7 @@
 # Trilha HTML - Dio.me
 ## Módulo 01 - Primeiros passos com HTML
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+Este projeto foi criado com o objetivo de fixar o conteúdo prático sobre HTML. Aqui, você encontrará vários exemplos de código e explicações detalhadas sobre diferentes aspectos do HTML, utilizando todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<p>`, `<abbr>`. O conteúdo foi explicado com minhas próprias palavras para cada tópico de ensino,abordando a história dos computadores, clients e servers, estrutura básica do HTML e listas ordenadas e não ordenadas, conforme o andamento do curso.
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
-
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
-
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
-
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
-
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
-
-Nos vemos lá!
+## Contribuindo
+Contribuições são sempre bem-vindas. Se você encontrar algum erro ou tiver alguma sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request.
